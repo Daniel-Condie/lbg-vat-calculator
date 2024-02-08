@@ -1,7 +1,7 @@
 # stage 1
 FROM node:19-alpine as build
 
-# change into a folder called /app
+# change into a folder called /app dc
 WORKDIR /app
 
 # only copy package.json
